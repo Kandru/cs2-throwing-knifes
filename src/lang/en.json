@@ -1,0 +1,9 @@
+{
+    "core.debugprint": "[ThrowingKnifes][DEBUG]: {message}",
+    "core.config": "[ThrowingKnifes] Configuration loaded",
+    "core.init": "[ThrowingKnifes] Initialized ThrowingKnifes",
+    "admin.unknown_command": "[ThrowingKnifes] Unknown command: {command}",
+    "admin.disable": "[ThrowingKnifes] Disabled ThrowingKnifes.",
+    "admin.enable": "[ThrowingKnifes] Enabled ThrowingKnifes.",
+    "admin.reload": "[ThrowingKnifes] Configuration reloaded"
+}
