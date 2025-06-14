@@ -1,3 +1,7 @@
+
+> [!CAUTION]
+> Work in progress. THIS DOES NOT WORK ON YOUR SERVER.
+
 # CounterstrikeSharp - Throwing Knifes
 
 [![UpdateManager Compatible](https://img.shields.io/badge/CS2-UpdateManager-darkgreen)](https://github.com/Kandru/cs2-update-manager/)
